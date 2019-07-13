@@ -1,2 +1,1 @@
-# DevC JavaScript Development Course
-Exercise 2
+This is my calculator 
